@@ -7,6 +7,6 @@
 <title>Welcome to Spring World</title>
 </head>
 <body>
-	Congratulations... 	Welcome to Spring Sample Web App - Verifying the changes  ...
+	Congratulations... 	Welcome to Spring Sample Web App
 </body>
 </html>
